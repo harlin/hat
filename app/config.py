@@ -18,6 +18,7 @@ config['tipfy'] = {
     ],
     # Enable the Hello, World! app example.
     'apps_installed': [
-        'apps.hello_world',
+        # 'apps.hello_world',
+        'apps.hat_game',
     ],
 }
